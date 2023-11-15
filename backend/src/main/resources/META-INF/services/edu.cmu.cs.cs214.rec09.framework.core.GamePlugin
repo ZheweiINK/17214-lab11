@@ -3,3 +3,4 @@
 # with one plugin per line.
 edu.cmu.cs.cs214.rec09.plugin.MemoryPlugin
 edu.cmu.cs.cs214.rec09.plugin.RpsPlugin
+edu.cmu.cs.cs214.rec09.plugin.TicTacToePlugin
